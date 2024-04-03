@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.html": "html",
+        "stdio.h": "c",
+        "UNION.C": "cpp"
+    },
+    "editor.guides.bracketPairs": false
+}
